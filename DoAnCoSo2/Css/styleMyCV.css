@@ -1,0 +1,257 @@
+body {
+    overflow-x: hidden;
+}
+
+a {
+    text-decoration: none !important;
+}
+.bd-rd{
+    border-radius: 10px;
+}
+.modal-body input {
+    min-width: 200px;
+    min-height: 35px;
+    border-radius: 20px;
+    border: #20c0f3;
+}
+
+/* .modal-content .cc2:hover {
+    background-color: red;
+} */
+
+
+
+.nav-search {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    float: left;
+    height: auto;
+    width: 300px;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 40px;
+}
+
+.content {
+    background-color: #000;
+    float: right;
+    /* width: calc(100% - 300px - 30px); */
+    height: 100vh;
+
+}
+
+.slist {
+    outline: #20c0f3;
+    border: 1px solid#20c0f3;
+    padding: 10px;
+    margin-bottom: 10px;
+    width: 70%;
+}
+
+.btn-search {
+    padding: 10px;
+    width: 75%;
+    margin-bottom: 30px;
+}
+
+hr {
+    margin: 10px 0;
+}
+
+.title {
+    margin-top: 10px;
+}
+
+
+
+
+.text-center {
+    padding: 25px;
+    border-radius: 25px;
+}
+
+.text-center:hover {
+    box-shadow: 0 0 10px rgb(0, 0, 0);
+}
+
+.template-cv-colors {
+    width: 16px;
+    height: 16px;
+    border-radius: 8px;
+    margin-right: 8px;
+}
+
+.template-cv-colors:hover {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.845);
+}
+
+
+
+
+
+.margin-b-40 {
+    margin-bottom: 40px;
+}
+
+.margin-5 {
+    margin: 5px;
+}
+
+.top-40 {
+    position: relative;
+    top: 100px;
+}
+
+.element {
+    cursor: pointer;
+}
+
+.element h3 {
+    margin-top: 25px;
+}
+
+#modalC {
+    position: relative;
+}
+
+.modalT {
+    background-color: rgba(0, 0, 0, 0.3);
+    height: 300px;
+    width: 100%;
+    /* display: none; */
+    position: fixed;
+
+}
+
+img {
+    height: 300px;
+    width: 100%;
+}
+
+.image {
+    position: relative;
+
+    height: 300px;
+}
+
+.image__img {
+    display: block;
+    /* width: 100%; */
+}
+
+.image__overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.6);
+    color: #ffffff;
+    font-family: 'Quicksand', sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    transition: opacity 0.25s;
+}
+
+.image__overlay--blur {
+    backdrop-filter: blur(5px);
+}
+
+.image__overlay--primary {
+    background: rgba(0, 0, 0, 0.4);
+}
+
+.image__overlay>* {
+    transform: translateY(20px);
+    transition: transform 0.25s;
+}
+
+.image__overlay:hover {
+    opacity: 1;
+}
+
+.image__overlay:hover>* {
+    transform: translateY(0);
+}
+
+.image__title {
+    font-size: 2em;
+    font-weight: bold;
+}
+
+.image__description {
+    font-size: 1.25em;
+    margin-top: 0.25em;
+}
+
+.mycv {
+    margin-bottom: 180px;
+    margin-top: -80px;
+}
+
+@media screen and (max-width: 1200px) {
+
+    .mycv {
+        margin-bottom: 180px;
+    }
+
+    .nav-search {
+        width: 100%;
+        margin: 0px;
+    }
+
+    #footer {
+        position: relative;
+        bottom: 0;
+    }
+}
+
+@media screen and (max-width: 987px) {
+    .modal-content {
+        min-width: 300px !important;
+        margin-left: 0px !important;
+    }
+
+    .an1 {
+        display: block !important;
+    }
+}
+.pagination {
+    margin-top: 30px !important; 
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    display: block !important;
+    margin: 0 auto; 
+}
+.pagination ul{
+    justify-content: center;
+}
+
+.pagination li{
+    list-style: none;
+}
+
+.pagination a {
+    color: black;
+    padding: 12px 12px;
+    float: left;
+    padding: 8px 16px;
+    text-decoration: none !important;
+    border: 1px solid rgb(204, 204, 204);
+    border-radius: 50%;
+}
+
+.pagination li.active a {
+    background-color: #4CAF50;
+    color: white;
+}
+.pagination li.btn-active a{
+    color: rgb(201, 200, 200);
+}
+.pagination a:hover:not(.active) {
+    background-color: #ddd;
+}

@@ -1,0 +1,7 @@
+.pd-notify{
+    text-align: center;
+    padding: 20px;
+}
+.pd-notify span{
+    font-style: italic;
+}

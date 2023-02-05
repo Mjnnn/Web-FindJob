@@ -1,0 +1,120 @@
+.centerrr{
+    text-align: center  ;
+}
+.table td{
+    text-align: center;
+}
+.table th{
+    text-align: center;
+}
+
+.btn-icon-split .icon {
+    padding: 3px 10px !important;
+}
+.ss_company input{
+   min-width: 93px !important;
+}
+.cnt_blog{
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+
+}
+
+.ss_company{
+    display: flex;
+}
+
+.mgl-5{
+    margin-left: 5px;
+}
+.mgl-23{
+    margin-left: 23px;
+}
+
+.mgr-5{
+    margin-right: 5px;
+}
+.pd-10{
+    padding: 0 15px !important;
+}
+.list_acc a{
+    padding: 5px !important;
+}
+.ps-rl{
+    position: relative;
+}
+.ps-rl i{
+    position: absolute;
+    left: 3px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+.mw-95 a{
+    min-width: 95px;
+    padding: 5px 0;
+}
+.mw-100{
+    min-width: 100px;
+}
+.pss-rll{
+    position: relative;
+}
+
+.pss-abb{
+    position: absolute;
+    top:50%;
+    transform: translate(-50%,-50%) !important;
+    left: 50%;
+    /* transform: translateX(-50%) !important; */
+}
+.w-400{
+    width: 300px !important;
+    max-width: 300px;
+}
+.mw-175{
+    min-width: 175px;
+    max-width: 176px;
+}
+.mw-95{
+    min-width: 95px;
+}
+.s0{
+    color: #4e73df;
+}
+
+.s1{
+    color: #17a673;
+}
+
+.s2{
+    color: #f6c23e;
+}
+
+.s3{
+   color: #e74a3b;
+}
+
+.s4{
+    color: aqua;
+}
+
+.s5{
+    color: chartreuse;
+}
+
+.s6{
+    color: blueviolet;
+}
+.dlp-f{
+    display: flex;
+    justify-content: space-between;
+}
+.m_auto {
+    margin: auto 0;
+}
+.a1{
+    text-decoration: none !important;
+    color: white !important;
+}

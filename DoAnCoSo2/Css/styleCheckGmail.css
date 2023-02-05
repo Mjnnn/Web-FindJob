@@ -1,0 +1,86 @@
+.pd-112{
+    padding: 112px 0;
+}
+.center{
+    text-align: center;
+}
+.title_check{
+    padding: 8px 0 10px 8px;
+}
+.form_check{
+    min-width: 300px;
+    max-width: 500px;
+    margin: 0 auto;
+    border: 1px solid black;
+    padding: 30px 75px 30px 75px;
+    border-radius: 20px;
+    box-shadow:  0 0 10px  rgba(0, 0, 0, 0.3);
+}
+
+.body_check{
+    margin: 30px 0 15px 0;
+}
+
+.body_check span{
+    margin-top: 10px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    padding-top: 7px;
+    color: red;
+    font-size: 12px;
+    font-style: italic;
+    font-weight: 400;
+    justify-content: center;
+}
+
+.body_check .a1{
+  padding: 10px 10px 10px 20px;
+  box-shadow:  0 0 10px  rgba(0, 0, 0, 0.3);
+  border-radius: 5px;
+}
+.sub_close{
+    margin-top: 50px;
+}
+.sub_close button{
+    text-align: left !important;
+    margin-right: 25px;
+}
+.sub_close a{
+    text-decoration: none !important;
+    color: white !important;
+}
+.sub_close input{
+    text-align: right !important;
+    margin-left: 25px;
+}
+
+@media (max-width:512px){
+    .form_check{
+        padding: 20px 30px 20px 30px;
+    }
+    .sub_close button{
+        text-align: left !important;
+        margin-right: 15px;
+    }
+    .sub_close input{
+        text-align: right !important;
+        margin-left: 15px;
+    }
+}
+
+@media (min-width: 1200px){
+    html, body {
+        font-size: 16px;
+    }
+    }
+    @media (min-width: 1025px){
+    html, body {
+        font-size: 15px;
+    }
+    }
+    @media (min-width: 768px){
+    html, body {
+        font-size: 14.5px;
+    }
+    }

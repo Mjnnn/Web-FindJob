@@ -1,0 +1,126 @@
+.pd-112{
+    padding:112px 0;
+}
+.fle_x{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.fle_xx{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.form-error{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    justify-content: center;
+    padding-top: 5px;
+    color: red !important;
+    font-size: 12px;
+    font-style: italic;
+    font-weight: 500;
+}
+.centerr{
+    text-align: center;
+}
+.mgb-50{
+    margin-bottom: 50px;
+}
+.mgb-30{
+    margin-bottom: 15px;
+}
+.pd-tr-50{
+    padding: 0 50px;
+}
+.mgb-15{
+    margin-bottom: 15px !important;
+}
+.mgt-30{
+    margin-top: 30px;
+}
+.mgt-35{
+    margin-top: 35px;
+}
+.mg_auto{
+    margin: 0 auto;
+}
+.form_blog{
+
+}
+.change-photo-btn {
+    background-color: #20c0f3;
+    border-radius: 50px;
+    color: #fff;
+    cursor: pointer;
+    display: block;
+    font-size: 13px;
+    font-weight: 600;
+    margin: 0 auto;
+    padding: 10px 15px;
+    position: relative;
+    transition: 0.3s;
+    text-align: center;
+    width: 220px;
+}
+.change-photo-btn input.upload {
+    bottom: 0;
+    cursor: pointer;
+    filter: alpha(opacity=0);
+    left: 0;
+    margin: 0;
+    opacity: 0;
+    padding: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 220px;
+}
+.img_blogg img {
+    border-radius: 10px;
+}
+.ip{
+    padding: 10px 20px 10px 20px;
+    /* margin-bottom: 15px !important; */
+    border-radius: 5px;
+}
+textarea{
+    border-radius: 5px;
+    padding: 10px 15px 10px 20px;
+    width: 95% !important;
+}
+.type_blog{
+    border-radius: 5px;
+    padding: 5px 5px 5px 10px;
+    height: 44px;
+}
+.ip{
+    width: 80%;
+    text-align: center;
+}
+.m-4{
+    margin: 0 !important;
+}
+
+@media (max-width:739px){
+    .content_blogg{
+        margin-top: 50px;
+    }
+}
+@media (max-width:662px){
+    .type_blog{
+        margin-bottom: 25px;
+    }
+}
+.ip, textarea,select{
+    outline: none;
+    border: 1px solid cornflowerblue;
+}
+input:focus,textarea:focus{
+    border-bottom:4px solid  blue ;
+    
+}
+.btn_sub{
+    padding: 8px 50px 8px 50px !important;
+}

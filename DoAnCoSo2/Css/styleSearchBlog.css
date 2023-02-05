@@ -1,0 +1,80 @@
+.avatar {
+vertical-align: middle;
+width: 30px;
+height: 30px;
+border-radius: 50%;
+}
+.ava-us a{
+text-decoration: none !important;
+}
+.title_blogg{
+    display: -webkit-box;
+    -webkit-line-clamp:4 ;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    min-height: 87px !important;
+    text-align: justify;
+}
+.content_blogg{
+    display: -webkit-box;
+    -webkit-line-clamp:5 ;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-align: justify;
+}
+.icon__star {
+    color: yellow;
+    margin-left: -35px;
+}
+.icon__star li {
+    list-style: none;
+    display: inline;
+    padding-right: 5px;
+}
+.centerrr{
+    text-align: center;
+}
+.error_tk i{
+    margin-right: 5px !important;
+}
+.mgt-20{
+    margin-top: 10px !important;
+}
+.mh-42{
+    min-height: 42px !important;
+   }
+.mgt-5{
+    margin-top: 5px !important;
+}
+.mgt-10{
+    margin-top: 10px !important;
+}
+.icon__star {
+    margin-bottom: 0 !important;
+}
+.fl_icon{
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+.fl_icon i{
+    font-size: 22px;
+   position: absolute;
+   top: 50%;
+   transform: translateY(-50%);
+   left: 50%;
+   transform: translateX(-50%);
+}
+.fl_icon i:active{
+    color: red;
+}
+.fl_icon i:hover{
+    color: red;
+}
+
+.mgb-10{
+    margin-bottom: 10px;
+}
+.mgt-20a{
+    margin-top: 20px !important;
+}

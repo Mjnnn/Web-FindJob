@@ -1,0 +1,91 @@
+.mgt-100{
+    margin-top:100px;
+}
+.mgt-30{
+    margin-top: 30px;
+}
+.mgl-45{
+    margin-left: 45px;
+}
+.titlee {
+    display: inline-block; 
+    border-bottom: 1px solid black ;
+}
+.poss{
+    background-color: #f8f9fa;
+}
+.pdt-100{
+    padding-top: 100px;
+}
+.pdb-50{
+    padding-bottom: 50px;
+}
+.mgt-30{
+    margin-top: 30px;
+}
+.shortt{
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 750px;
+}
+.pdt-50{
+    padding-top: 50px;
+}
+.fl_xx{
+    display: flex;
+    justify-content: space-between;
+}
+.form_man{
+    margin-bottom: 10px;
+    position: relative;
+}
+.form_man .iconn{
+    position: absolute;
+    left: 6px;
+    top:3px;
+}
+.form_man input{
+    padding: 2px 10px 2px 25px ;
+    border-radius: 5px;
+    outline: none;
+
+}
+.form_man input:focus{
+    outline: none;
+    border-bottom: 5px solid black;
+}
+.mgt-25{
+    margin-top: 25px;
+}
+.mgt-10{
+    margin-top: 15px;
+}
+.editt{
+    color: chartreuse;
+    font-size: 18px;
+    margin-right: 5px;
+    
+}
+.editt:hover{
+    font-size: 20px;
+    color: chartreuse;
+}
+
+.deletee{
+    color: red;
+    font-size: 18px;
+    margin-left: 5px;
+}
+.deletee:hover{
+    font-size: 20px;
+    color: red;
+}
+.un_fl{
+    color: red;
+    text-decoration: none !important;
+}
+.un_fl:hover{
+    color: red;
+    font-style: italic;
+}

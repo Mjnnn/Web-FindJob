@@ -1,0 +1,90 @@
+- taikhoan (account)
++ tendangnhap (username) (PK)
++ matkhau (password)
++ sdt (phone number)
++ email
++ lichsutimkiem (searchhistory)
++ ảnhavata
++ vaitro
++ lido
+
+-ADmin: 
++ user
++ pass
++ email
++ imgad
+
+
+- Form CV:
++ IDform
++ form
+
+- CV
++ IDform
++ tendangnhap (PK và Khóa ngoại)
++ hotenlot (firstname)
++ ten (lastname)
++ ngaysinh (date)
++ gioitinh (sex)
++ email
++ sdt (phone number)
++ phuong/xa
++ quan/huyen
++ tinh/thanhpho
++ hocvan (Đi kèm Với tiếng anh, tạo from thang điểm tiếng anh gồm tiêu chí : Nge,nói,đọc,viết)
++ kinhnghiem/ky nang
++ chungchi/giaithuong
++ muctieu
+
+- tuyendung 
++ tendangnhap (Khóa ngoại)
++ IDcongty  ( Lấy ra Tên Công ty,người liên hệ,email,sđt,địa chỉ)
++ IDnganhnghe (Lấy ra tennganhnghe,chitietnganhnghe)
++ soluongnhanvien
++ chucdanh (nhân viên kinh doanh, kế toán,..)
++ theloai (parttime,fulltime,...)
++ thoigiantuyendung
++ lương
++ chiTiet (1 số chi tiết bổ sung khi tuyển dụng)
+
+- NganhNghe
++ IDnganhnghe (PK)
++ TenNganhNghe
++ chitietnganhnghe
+
+
+- CôngTy (Company)
++ IDcongty
++ username
++ tencongty
++ loại hình hoạt động
++ trạng thái công ty
++ Số nhân viên
++ Sơ lược về công ty
++ quốc gia
++ tỉnh/tp
++ diachi
++ tennguoilienhe 
++ sdt 
++ email
++ imgcompany
++ imgnguoilienhe
++ nhúngLocation
++ Phúc lợi công ty
++ linkwebsite
++ mã số thuế
++ trangthaichitiet
+
+- Blog
++ idblog
++ tendangnhap
++ tieudeblog
++ contentblog
++ imgblog
++ timeblog
++ topicblog (ví dụ: hướng nghiệp, phỏng vấn, mẹo công sở,....)
+
+- Cmt
++ tendangnhap
++ thoigiandangcmt
++ ndcmt

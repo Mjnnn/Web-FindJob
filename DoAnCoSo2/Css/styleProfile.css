@@ -1,0 +1,157 @@
+body{
+    background-color: #f8f9fa !important;
+}
+
+.mgt-30{
+    margin-top: 30px;
+}
+
+.fl_x{
+    display: flex;
+}
+
+.profile{
+    width: 100%;
+    background-color: white;
+    border-radius: 50px;
+}
+
+.img_pro img{
+    border-radius: 50px;
+    width: 350px;
+    height: 250px;
+}
+.upload_file{
+    margin-top: 25px;
+    text-align: center;
+}
+
+.change-photo-btn {
+    background-color: #20c0f3;
+    border-radius: 50px;
+    color: #fff;
+    cursor: pointer;
+    display: block;
+    font-size: 13px;
+    font-weight: 600;
+    margin: 0 auto;
+    padding: 10px 15px;
+    position: relative;
+    transition: 0.3s;
+    text-align: center;
+    width: 220px;
+}
+.change-photo-btn input.upload {
+    bottom: 0;
+    cursor: pointer;
+    filter: alpha(opacity=0);
+    left: 0;
+    margin: 0;
+    opacity: 0;
+    padding: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 220px;
+}
+.form_pro input{
+    padding: 10px 15px 10px 25px;
+    min-width: 300px;
+    outline: none;
+    border-radius: 10px;
+    border: 1px solid white;
+    margin-right: 20px;
+}
+.form_pro span{
+    margin-right: 5px;
+}
+.form_pro input:focus{
+    border-bottom: 5px solid blue;
+    outline: none;
+
+}
+.updatee i{
+    font-size: 18px;
+}
+.updatee i:hover{
+    font-size: 20px;
+    cursor: pointer;
+}
+.none_cv h6{
+    font-style: italic;
+}
+.profile_us{
+    flex: 1;
+}
+.ps-ab-sm{
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+}
+.pdt-100{
+    padding-top: 100px;
+}
+
+.pdb-50{
+    padding-bottom: 50px;
+}
+
+.pd-25{
+    padding: 25px;
+}
+.pdr-25{
+    padding-right: 25px;
+}
+.pdl-25{
+    padding-left: 25px;
+}
+.mgt-20{
+    margin-top: 20px;
+}
+.mgt-10{
+    margin-top: 10px;
+}
+.mgt-25{
+    margin-top: 25px;
+}
+.mgl-5{
+    margin-left: 5px;
+}
+
+.mh-300{
+    min-height: 300px;
+}
+.mgt-50{
+    margin-top: 50px;
+}
+.mgl-20{
+    margin-left: 20px;
+}
+.mgb-10{
+    margin-bottom: 10px;
+}
+.mgt-15{
+    margin-top: 15px;
+}
+.ps-rl{
+    position: relative;
+}
+.ps-ab{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.list_cpn a{
+    text-decoration: none !important;
+}
+.list_cpn .cpn_a:hover{
+    padding-left: 20px;
+    font-size: 14px;
+}
+.erro_cpn{
+    padding: 25px;
+    text-align: center;
+    font-style: italic;
+}
+

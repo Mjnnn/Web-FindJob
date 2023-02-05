@@ -1,0 +1,61 @@
+.mgt-135{
+    margin-top: 135px;
+}
+.mgb-30{
+    margin-bottom: 30px;
+}
+.mgb-80{
+    margin-bottom: 80px;
+}
+.mw-800{
+    max-width: 800px;
+    /* min-height: 500px; */
+    background-color: #f8f9fa;
+    box-shadow: 0 0 10px  rgba(0, 0, 0, 0.3);
+    margin: 0 auto;
+    border-radius: 10px;
+    padding: 40px 0;
+}
+.fll{
+    display: flex;
+}
+.img_uss{
+    flex: 1;
+    padding:0 20px 0 40px;
+}
+.img_uss img{
+    border-radius: 50%;
+}
+.form_us{
+    flex: 2;
+}
+.form_pass{
+    padding: 0px 30px;
+    text-align: center;
+}
+.form_pass .ipp{
+    width: 60%;
+    padding: 10px 20px 10px 25px;
+    border-radius: 10px;
+    outline: none;
+    border: 1px solid grey;
+    
+}
+.form_pass .ipp:focus{
+    border-bottom: 5px solid grey;
+}
+.form_pass .sbm{
+    padding: 10px 45px 10px 45px;
+}
+.title_changepass{
+    text-align: center;
+}
+.form_pass p{
+    margin-top: 5px;
+    font-size: 10px;
+    color: red;
+    font-style: italic;
+}
+.mgb-25{
+    margin-bottom: 25px;
+}

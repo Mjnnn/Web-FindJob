@@ -1,0 +1,512 @@
+.employer-signup-new {
+    color: #4d4d4d;
+}
+
+.cb-section {
+    padding: 60px 0;
+}
+.mgt-50{
+    margin-top: 50px !important;
+}
+.l-h-45{
+    line-height: 45px !important;
+}
+@media (min-width: 1200px){
+.container {
+    max-width: 1440px;
+}
+}
+@media (min-width: 1025px){
+.container {
+    max-width: 960px;
+}
+}
+@media (min-width: 768px){
+.container {
+    max-width: 720px;
+}
+}
+@media (min-width: 576px){
+.container {
+    max-width: 540px;
+}
+}
+.container {
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.employer-signup-new .row-sp {
+    margin: 0 -30px;
+}
+.row {
+    margin-bottom: -30px;
+}
+.row {
+    -ms-flex-wrap: wrap;
+    display: -ms-flexbox;
+    display: -webkit-box;
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+.employer-signup-new .row-sp > [class*="col-"] {
+    padding: 0 30px;
+}
+.row > * {
+    margin-bottom: 30px;
+}
+@media (min-width: 1200px){
+.col-xl-5 {
+    -ms-flex: 0 0 41.666667%;
+    -webkit-box-flex: 0;
+    flex: 0 0 41.666667%;
+    max-width: 41.666667%;
+}
+}
+employer-signup-new .box-img {
+    margin-right: -50px;
+}
+.employer-signup-new .box-img img {
+    width: 100%;
+}
+.employer-signup-new .box-img {
+    margin-right: -50px;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+.employer-signup-new .row-sp > [class*="col-"] {
+    padding: 0 30px;
+}
+.row > * {
+    margin-bottom: 30px;
+}
+.employer-signup-new {
+    color: #4d4d4d;
+}
+
+@media (min-width: 1200px){
+html, body {
+    font-size: 16px;
+}
+}
+@media (min-width: 1025px){
+html, body {
+    font-size: 15px;
+}
+}
+@media (min-width: 768px){
+html, body {
+    font-size: 14.5px;
+}
+}
+form {
+    display: block;
+    margin-top: 0em;
+}
+@media (min-width: 1200px){
+.col-xl-7 {
+    -ms-flex: 0 0 58.333333%;
+    -webkit-box-flex: 0;
+    flex: 0 0 58.333333%;
+    max-width: 58.333333%;
+}
+}
+
+.employer-signup-new .box-info-signup {
+    margin-left: 50px;
+}
+
+.box-info-signup .title h2 {
+    text-transform: uppercase;
+    color: #2f4ba0;
+    font-size: 28px;
+    margin-bottom: 30px;
+    line-height: 1.25em;
+}
+
+.employer-signup-new .main-form .form-group .form-input {
+    -ms-flex: 0 0 calc(100% - 200px);
+    -webkit-box-flex: 0;
+    flex: 0 0 calc(100% - 200px);
+    max-width: calc(100% - 200px);
+}
+.employer-signup-new .main-form .form-group {
+    margin-bottom: 25px;
+    position: relative;
+    flex-wrap: wrap;
+}
+.d-flex {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+}
+.employer-signup-new .main-form .form-group .form-info {
+    -ms-flex: 0 0 200px;
+    -webkit-box-flex: 0;
+    flex: 0 0 200px;
+    max-width: 200px;
+}
+.employer-signup-new .main-form .form-group .form-input .form-control {
+    padding: 0 15px;
+    height: 45px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    align-items: center;
+    border-radius: 0 6px 6px 0;
+    width: 100%;
+    border: none;
+    background: #e6e6e6;
+}
+input[type="text" i] {
+    padding: 1px 2px;
+}
+input, textarea, button, select {
+    border: 1px solid #333333;
+}
+button, input {
+    overflow: visible;
+}
+input, button, select, optgroup, textarea {
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+}
+
+.employer-signup-new .box-info-signup {
+    margin-left: 50px;
+}
+
+.employer-signup-new {
+    color: #4d4d4d;
+}
+.cb-section {
+    padding: 60px 0;
+}
+
+.box-info-signup .step-title {
+    justify-content: space-between;
+    margin-bottom: 40px;
+}
+.d-flex {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+}
+
+.box-info-signup .main-step-title h3 {
+    text-transform: uppercase;
+    font-weight: normal;
+    font-size: 22px;
+    color: #333;
+}
+.box-info-signup .main-step-title p {
+    margin-left: 90px;
+}
+p {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.employer-signup-new .main-form .form-group {
+    margin-bottom: 25px;
+    position: relative;
+    flex-wrap: wrap;
+}
+.d-flex {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+}
+.employer-signup-new .main-form .form-group .form-input.short {
+    -ms-flex: 0 0 250px;
+    -webkit-box-flex: 0;
+    flex: 0 0 250px;
+    max-width: 250px;
+}
+
+.employer-signup-new .main-form .form-group .form-info {
+    -ms-flex: 0 0 200px;
+    -webkit-box-flex: 0;
+    flex: 0 0 200px;
+    max-width: 200px;
+}
+
+.employer-signup-new .main-form .form-group .form-info span {
+    width: 100%;
+    background: #2f4ba0;
+    color: #fff;    
+    text-transform: uppercase;
+    padding-left: 15px;
+    height: 45px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    align-items: center;
+    border-radius: 6px 0 0 6px;
+}
+input[type="hidden" i] {
+    appearance: none;
+    background-color: initial;
+    cursor: default;
+    display: none !important;
+    padding: initial;
+    border: initial;
+}
+
+a {
+    color: #2f4ba0;
+}
+
+a {
+    background-color: transparent;
+    color: #007bff;
+    text-decoration: none;
+}
+.employer-signup-new .main-form .btn-area.list-btn {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+.employer-signup-new .main-form .btn-area {
+    text-align: right;
+}
+.employer-signup-new .main-form .form-group .box-captcha {
+    -ms-flex: 0 0 calc(100% - 450px);
+    -webkit-box-flex: 0;
+    flex: 0 0 calc(100% - 450px);
+    max-width: calc(100% - 450px);
+    justify-content: center;
+}
+.employer-signup-new .main-form .form-group .form-input .form-control {
+    padding: 0 15px;
+    height: 45px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    align-items: center;
+    border-radius: 0 6px 6px 0;
+    width: 100%;
+    border: none;
+    background: #e6e6e6;
+}
+
+.employer-signup-new .main-form .form-group .form-input .form-error.success {
+    color: #00b2a3;
+}
+
+.employer-signup-new .main-form .form-group .form-input .form-error {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    padding-top: 5px;
+    color: red;
+    font-size: 12px;
+    font-style: italic;
+    font-weight: 500;
+}
+.employer-signup-new .main-form .form-group .noti {
+    position: absolute;
+    top: 0;
+    right: -30px;
+}
+.noti {
+    position: relative;
+    cursor: pointer;
+}
+.employer-signup-new .main-form .form-group .form-input select.form-control {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
+
+.employer-signup-new .main-form .form-group .form-input textarea.form-control {
+    height: auto;
+    padding-top: 10px;
+}
+.employer-signup-new .main-form .form-group .form-input-select select {
+    background-image: url(https://static.careerbuilder.vn/themes/employer/img/signup-new/triang-down.png)!important;
+    background-position: 95% 50%!important;
+    background-repeat: no-repeat!important;
+}
+.employer-signup-new .main-form .form-group .form-input .form-control {
+    padding: 0 15px;
+    height: 45px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    align-items: center;
+    border-radius: 0 6px 6px 0;
+    width: 100%;
+    border: none;
+    background: #e6e6e6;
+}
+.employer-signup-new .main-form .form-group .form-input-select select {
+    background-position: 95% 50%!important;
+    background-repeat: no-repeat!important;
+}
+input, textarea, button, select {
+    border: 1px solid #333333;
+}
+select {
+    background-position: 95% 50%;
+    background-repeat: no-repeat;
+}
+select {
+    width: 100%;
+    height: 40px;
+}
+select {
+    word-wrap: normal;
+}
+button, select {
+    text-transform: none;
+}
+a{
+    text-decoration: none !important;
+}
+.employer-signup-new .main-form .btn-area .btn-prev {
+    border-color: #808080;
+    background: #808080;
+}
+.employer-signup-new .main-form .btn-area input {
+    background: #00b2a3;
+    color: #fff;
+    text-transform: uppercase;
+    padding: 8px 25px;
+    border-radius: 6px;
+    -moz-box-shadow: 2px 2px 5px #999;
+    -webkit-box-shadow: 2px 2px 5px #999;
+    box-shadow: 2px 2px 5px #999;
+    border: 1px solid #00b2a3;
+    transition: 400ms;
+}
+.employer-signup-new .main-form .btn-area button {
+    background: #00b2a3;
+    color: #fff;
+    text-transform: uppercase;
+    padding: 8px 25px;
+    border-radius: 6px;
+    -moz-box-shadow: 2px 2px 5px #999;
+    -webkit-box-shadow: 2px 2px 5px #999;
+    box-shadow: 2px 2px 5px #999;
+    border: 1px solid #00b2a3;
+    transition: 400ms;
+}
+.btn-prev a{
+    color: white !important;
+}
+button:not(:disabled), [type="button"]:not(:disabled), [type="reset"]:not(:disabled), [type="submit"]:not(:disabled) {
+    cursor: pointer;
+}
+button, [type="button"], [type="reset"], [type="submit"] {
+    -webkit-appearance: button;
+}
+.fa-rotate-right:before, .fa-repeat:before {
+    content: "\f01e";
+}
+.fa {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+}
+.employer-signup-new .right-note {
+    text-align: right;
+}
+.employer-signup-new .right-note a {
+    color: #2f4ba0;
+}
+@media screen and (max-width: 768px){
+.cb-section {
+    padding: 40px 0;
+}
+}
+
+@media (max-width: 576px){
+.container {
+    padding: 0 15px;
+}
+}
+@media (max-width: 720px){
+.container {
+    padding: 0 50px;
+}
+}
+@media (max-width: 1024px){
+.container {
+    max-width: 100%;
+    padding: 0 15px;
+}
+}
+@media (max-width: 1440px){
+.container {
+    padding: 0 50px;
+}
+}
+.container {
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+@media screen and (max-width: 1199px){
+.employer-signup-new .row-sp {
+    margin: 0 -15px;
+}
+}
+@media screen and (max-width: 1199px){
+.employer-signup-new .row-sp > [class*="col-"] {
+    padding: 0 15px;
+}
+}
+
+@media screen and (max-width: 1199px){
+.employer-signup-new .box-img {
+    margin-right: 0;
+}
+}
+
+@media screen and (max-width: 1199px){
+.employer-signup-new .box-info-signup {
+    margin-left: 0;
+}
+}
+
+@media screen and (max-width: 576px){
+.employer-signup-new .main-form .form-group .form-info {
+    -ms-flex: 0 0 165px;
+    -webkit-box-flex: 0;
+    flex: 0 0 165px;
+    max-width: 165px;
+}
+}
+@media screen and (max-width: 576px){
+.employer-signup-new .main-form .form-group .form-input, .employer-signup-new .main-form .form-group .form-input.short {
+    -ms-flex: 0 0 calc(100% - 165px);
+    -webkit-box-flex: 0;
+    flex: 0 0 calc(100% - 165px);
+    max-width: calc(100% - 165px);
+}
+}
+@media screen and (max-width: 576px){
+    html, body {
+        color: #5d677a;
+        font-family: "Barlow", sans-serif;
+        font-size: 13px;
+    }
+}

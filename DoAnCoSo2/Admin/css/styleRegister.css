@@ -1,0 +1,11 @@
+.user span{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    padding-top: 7px;
+    padding-left: 18px;
+    color: red;
+    font-size: 12px;
+    font-style: italic;
+    font-weight: 400;
+}
